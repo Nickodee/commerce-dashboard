@@ -15,7 +15,7 @@ import HealingOutlinedIcon from '@mui/icons-material/HealingOutlined';
 const Sidebar = () => {
   return (
     <div className='sidebar'>
-        <div className='top'><span className='logo'>Logo</span></div>
+        <div className='top'><span className='logo'>NTech Solutions</span></div>
         <hr/>
         <div className='center'>
             <ul>
